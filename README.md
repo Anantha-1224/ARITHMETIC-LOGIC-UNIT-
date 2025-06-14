@@ -21,4 +21,6 @@ Synthesis: Transforming the RTL code into a gate-level netlist for physical impl
 Back-End Design:
 Physical Design: Converting the gate-level netlist into a physical layout on the chip, including floorplanning, placement, and routing. 
 Static Timing Analysis: Ensuring the circuit meets timing requirements by analyzing signal delays. 
-Power Optimization: Minimizing power consumption while maintaining functionality. 
+Power Optimization: Minimizing power consumption while maintaining functionality.
+
+
