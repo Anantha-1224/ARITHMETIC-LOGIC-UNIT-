@@ -18,13 +18,15 @@ Front-End Design:
 RTL Design: Creating logic designs using hardware description languages like Verilog or VHDL. 
 Functional Verification: Ensuring the design functions correctly through simulation and testing. 
 Synthesis: Transforming the RTL code into a gate-level netlist for physical implementation.
-output
-A = 8'b00001100 (decimal 12)
-
-B = 8'b00000101 (decimal 5)
 Back-End Design:
 Physical Design: Converting the gate-level netlist into a physical layout on the chip, including floorplanning, placement, and routing. 
 Static Timing Analysis: Ensuring the circuit meets timing requirements by analyzing signal delays. 
 Power Optimization: Minimizing power consumption while maintaining functionality.
+
+output
+
+A = 8'b00001100 (decimal 12)
+
+B = 8'b00000101 (decimal 5)
 
 
