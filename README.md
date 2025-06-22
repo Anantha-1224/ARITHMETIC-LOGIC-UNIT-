@@ -1,4 +1,4 @@
-# ARITHMETIC-LOGIC-UNIT-
+N# ARITHMETIC-LOGIC-UNIT-
 
 *company*:CODETECH IT SOLUTIONS
 
@@ -12,6 +12,7 @@
 
 *mentor*:NEELA SANTOSH
 
+DESCRIPTION ABOUT ARTHEMATIC LOGIC UNIT(ALU)
 VLSI (Very Large Scale Integration) involves the design and development of integrated circuits, including tasks like circuit design, physical layout, verification, and optimization. It encompasses both front-end (logic design, synthesis) and back-end (physical design, layout) aspects. VLSI engineers work with specialized tools and methodologies to create the complex chips that power modern electronics. 
 Key VLSI Tasks:
 Front-End Design:
